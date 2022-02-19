@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775974281264",
+    "project_id": "chatapp-d8b38",
+    "storage_bucket": "chatapp-d8b38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775974281264:android:753ddef0bdf2e40dc34df5",
+        "android_client_info": {
+          "package_name": "com.yougraj.quickchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775974281264-o0q8f1n12q7hlve9qke8h5safm2p3jg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5bGPU8ehik52ZiEvTfU_wa3kQcj2tH4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775974281264-o0q8f1n12q7hlve9qke8h5safm2p3jg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
